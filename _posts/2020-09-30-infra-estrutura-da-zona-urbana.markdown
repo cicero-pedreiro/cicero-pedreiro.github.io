@@ -6,7 +6,7 @@ categories: jekyll update
 excerpt_separator: <!--more-->
 ---
 
-Buscar junto a prefeitura, um plano que viabilize a instalação de uma unidade permanente do SESC no município trazendo mais acesso à cultura, educação, saúde, esporte, lazer e assistência social para a população de monteiro.
+Buscar junto a prefeitura, um plano que viabilize a instalação de uma unidade permanente do SESC no município trazendo mais acesso à cultura, educação, saúde, esporte, lazer e assistência social para a população de Monteiro.
 
 Realizar o projeto de indicação de pavimentação das ruas transversais que não foram incluídas nos projetos de pavimentação anteriores, levando mais qualidade de vida para os moradores, que ainda sofrem com o acesso às suas casas, mesmo residindo em ruas contempladas pelos programas de pavimentação.
 
