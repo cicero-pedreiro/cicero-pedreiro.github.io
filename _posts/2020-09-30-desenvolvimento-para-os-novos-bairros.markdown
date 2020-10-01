@@ -6,12 +6,11 @@ categories: jekyll update
 excerpt_separator: <!--more-->
 ---
 
-Criação do programa Água para todos, com a construção de cisternas e perfuração de poços artesianos para as comunidades rurais, fortalecendo a agricultura pecuária e caprinocultura da região, e levando mais dignidade e qualidade de vida para o homem do campo.
+Buscar junto à prefeitura regularização dos novos bairros e logradouros do município, possibilitando a entrega de encomendas e correspondências por parte dos Correios. de acordo com o art 4° da portaria N° 311 do Ministério das Comunicações.
 
-Encaminhar à prefeitura projeto de pavimentação da estrada que leva a comunidade  do sítio Santa Catarina facilitando o acesso e trazendo mais desenvolvimento para a maior comunidade rural do município
+Encaminhar à prefeitura projeto de saneamento dos novos bairros do município, trazendo mais qualidade de vida e saúde pública para os moradores.
 
-Propor a revitalização e construção das passagens molhadas que interligam os caminhos da nossa zona rural, utilizando estruturas de concreto e tubulação adequada para esse tipo de obra.
-
+Encaminhar projeto de pavimentação completa dos novos bairros do município, facilitando o acesso e desenvolvimento dos mesmos.
 
 <!--more-->
 

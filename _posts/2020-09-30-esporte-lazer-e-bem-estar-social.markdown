@@ -6,12 +6,11 @@ categories: jekyll update
 excerpt_separator: <!--more-->
 ---
 
-Criação do programa Água para todos, com a construção de cisternas e perfuração de poços artesianos para as comunidades rurais, fortalecendo a agricultura pecuária e caprinocultura da região, e levando mais dignidade e qualidade de vida para o homem do campo.
+Buscar junto a Secretaria de Esporte do município um maior apoio financeiro para a realização e premiação do campeonato rural, incentivando essa competição que movimenta toda a cidade integrando as comunidades rurais do município.
 
-Encaminhar à prefeitura projeto de pavimentação da estrada que leva a comunidade  do sítio Santa Catarina facilitando o acesso e trazendo mais desenvolvimento para a maior comunidade rural do município
+Criação de um programa de incentivo ao esporte em parceria com a Universidade Estadual e o curso de Educação Física ofertado na nossa cidade, ofertando vagas de estágio nas escolas municipais e difundindo o conhecimento e prática de novos esportes para nossas crianças.
 
-Propor a revitalização e construção das passagens molhadas que interligam os caminhos da nossa zona rural, utilizando estruturas de concreto e tubulação adequada para esse tipo de obra.
-
+Buscar junto a Secretaria de Esporte o desenvolvimento de uma associação poliesportiva no município, realizando campeonatos municipais, preparando e dando suporte para os atletas em competições de nível regional e estadual.
 
 <!--more-->
 
