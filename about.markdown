@@ -1,18 +1,13 @@
 ---
 layout: page
-title: About
+title: Sobre
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Cicero dos Ramos Cordeiro Da Silva é candidato a vereador em 2020 pelo Partido Social Cristão - PSC pertencente a Coligação Monteiro Unida Por dias Melhores - PSDB, PROS, PSD, PSC,PSL, Progressistas, Repulblicanos,Solidariedade, Patriota e PDT. As informações oficiais da candidadura podem ser encontradas no site do TSE [Candidatura Cicero Pedreiro](http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2020/2030402020/20958/150001133532).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Acesse o LinkTree para acompanhar todos os canais de comunicação:
+[LinkTree Cicero Pedreiro](https://linktr.ee/cicero.pedreiro)
 
 
 [jekyll-organization]: https://github.com/jekyll
